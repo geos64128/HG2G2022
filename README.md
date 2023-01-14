@@ -1,5 +1,5 @@
-# HG2G
-Hitchhiker's Guide to GEOS
+# Hitchhiker's Guide to GEOS v2022
+
 
 We are excited to let you know that Paul B. Murdaugh has agreed to the release of his Hitchhiker's Guide' to GEOS v2022.
 
